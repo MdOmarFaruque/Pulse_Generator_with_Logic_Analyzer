@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/engtech/Desktop/Openlane_v2/pulse_generator/venv-cocotb"
+VIRTUAL_ENV="/home/engtech/Desktop/Openlane_v2/pulse_generator_LA/venv-cocotb"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

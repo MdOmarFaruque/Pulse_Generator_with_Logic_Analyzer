@@ -1,4 +1,4 @@
-#!/home/engtech/Desktop/Openlane_v2/pulse_generator/venv-cocotb/bin/python3
+#!/home/engtech/Desktop/Openlane_v2/pulse_generator_LA/venv-cocotb/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/engtech/Desktop/Openlane_v2/pulse_generator/caravel_venv"
+set -gx VIRTUAL_ENV "/home/engtech/Desktop/Openlane_v2/pulse_generator_LA/caravel_venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

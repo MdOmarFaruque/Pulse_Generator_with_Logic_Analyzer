@@ -1,8 +1,8 @@
-CARAVEL_ROOT: /home/engtech/Desktop/Openlane_v2/pulse_generator/caravel
-MCW_ROOT: /home/engtech/Desktop/Openlane_v2/pulse_generator/mgmt_core_wrapper
+CARAVEL_ROOT: /home/engtech/Desktop/Openlane_v2/pulse_generator_LA/caravel
+MCW_ROOT: /home/engtech/Desktop/Openlane_v2/pulse_generator_LA/mgmt_core_wrapper
 PDK: sky130A
-PDK_ROOT: /home/engtech/Desktop/Openlane_v2/pulse_generator/dependencies/pdks
-USER_PROJECT_ROOT: /home/engtech/Desktop/Openlane_v2/pulse_generator
+PDK_ROOT: /home/engtech/Desktop/Openlane_v2/pulse_generator_LA/dependencies/pdks
+USER_PROJECT_ROOT: /home/engtech/Desktop/Openlane_v2/pulse_generator_LA
 caravan: false
 clk: 25
 emailto:
